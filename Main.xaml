@@ -93,7 +93,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uasc:BuildCollection x:TypeArguments="x:String" Items="{x:Null}" DisplayName="Build Collection MD Cities" FirstItem="Bryans Road" sap:VirtualizedContainerService.HintSize="510,141" sap2010:WorkflowViewState.IdRef="BuildCollection`1_1" Result="[MDCities]">
+    <uasc:BuildCollection x:TypeArguments="x:String" Items="{x:Null}" DisplayName="Build Collection MD Cities" FirstItem="Brandywine" sap:VirtualizedContainerService.HintSize="510,141" sap2010:WorkflowViewState.IdRef="BuildCollection`1_1" Result="[MDCities]">
       <uasc:BuildCollection.NextItems>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Baltimore</InArgument>
