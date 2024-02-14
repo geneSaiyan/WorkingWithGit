@@ -97,7 +97,7 @@
       <uasc:BuildCollection.NextItems>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Baltimore</InArgument>
-          <InArgument x:TypeArguments="x:String">Clinton</InArgument>
+          <InArgument x:TypeArguments="x:String">Oxon Hill</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
