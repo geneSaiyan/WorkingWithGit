@@ -96,7 +96,7 @@
     <uasc:BuildCollection x:TypeArguments="x:String" Items="{x:Null}" DisplayName="Build Collection MD Cities" FirstItem="Bryans Road" sap:VirtualizedContainerService.HintSize="510,141" sap2010:WorkflowViewState.IdRef="BuildCollection`1_1" Result="[MDCities]">
       <uasc:BuildCollection.NextItems>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
-          <InArgument x:TypeArguments="x:String">ACCOKEEK</InArgument>
+          <InArgument x:TypeArguments="x:String">Baltimore</InArgument>
           <InArgument x:TypeArguments="x:String">Clinton</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
